@@ -1,7 +1,7 @@
 //============================================================================
 // Name        : 410_final_f20.cpp
-// Author      : 
-// Version     :
+// Author      : Matt Williams
+// Version     : 12/15/2020
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
 //============================================================================
